@@ -16,7 +16,7 @@ class Solution {
                 running += mark[i];
                 boxed = running;
             }
-      
+            result.add(boxed);
         }
         return result;
     }
