@@ -1,4 +1,4 @@
-// Trace Path
+// Trace Path Problem
 
 class Solution {
     public boolean isPossible(int n, int m, String s) {
