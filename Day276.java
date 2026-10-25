@@ -23,6 +23,6 @@ class Solution {
                 ans += (maxF - minF);
             }
         }
-        
+        return ans;
     }
 }
